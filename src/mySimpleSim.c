@@ -3,11 +3,6 @@
 // The project is developed as part of Computer Architecture class
 // Project Name: Functional/Pipeline Simulator for simpleRISC Processor
 //
-// Developer's Name:     Aditya Gupta
-// Developer's Email id: 2015csb1003[at]iitrpr[dot]ac[dot]in
-//
-// Developer's Name:     Vishal Singh
-// Developer's Email id: 2015csb1040[at]iitrpr[dot]ac[dot]in
 //=================================================
 
 //=================================================
